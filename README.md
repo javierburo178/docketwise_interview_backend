@@ -8,6 +8,9 @@ Clone repo and run:
 - `rails db:migrate`
 - `rails db:seed`
 - `rails server`
+
+##  JSON Endpoint to consume in front-end
+
 ```
 {
   "id": 11,
