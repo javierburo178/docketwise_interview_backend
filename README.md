@@ -8,7 +8,7 @@ Clone repo and run:
 - `rails db:migrate`
 - `rails db:seed`
 - `rails server`
-`
+```
 {
   "id": 11,
   "name": "root folder",
@@ -68,4 +68,5 @@ Clone repo and run:
     }
   ]
 }
-`
+```
+
